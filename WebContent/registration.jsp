@@ -9,6 +9,7 @@
 <body>
 <h3>Registration Using Spring</h3>
 
+<form action="reg-user.jsp" method="post">
 <table>
 <tr>
 <td><label>Full Name</label></td>
@@ -36,6 +37,6 @@
 
 </tr>
 
-</table>
+</table></form>
 </body>
 </html>
